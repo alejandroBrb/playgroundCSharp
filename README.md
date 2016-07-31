@@ -1,18 +1,17 @@
 # Playground C#
 
-## Estructura
+## Contenido
 
-test.cs Codigo de ejemplo
-Snippets
-    |
-    |_ Pequeños pedazos de codigo de proposito general
+* test.cs Codigo de ejemplo
+* Snippets/ <- Pequeños pedazos de codigo de proposito general
+* Snippets/ManagmentDates.cs <- Pequeño namespace para manejo de fechas
 
 ## Correr el proyecto en Mac
 
-* Descargar e instalar mono platform
+1. Descargar e instalar mono platform
 [Con titulo](http://www.mono-project.com/download/#download-mac "Mono platform")
 
-* Desde terminal 
+2. Desde terminal 
 ~~~
 $ cd project-folder/ 
 ~~~
