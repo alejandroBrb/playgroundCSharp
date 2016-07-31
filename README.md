@@ -1,4 +1,4 @@
-# Playground C\#
+# Playground C Sharp
 
 ## Contenido
 
@@ -9,7 +9,7 @@
 ## Correr el proyecto en Mac
 
 1. Descargar e instalar mono platform
-[aqui](http://www.mono-project.com/download/#download-mac "Mono platform")
+[enlace](http://www.mono-project.com/download/#download-mac "Mono platform")
 
 2. Desde terminal 
 ~~~
